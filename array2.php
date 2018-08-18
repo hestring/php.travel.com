@@ -51,6 +51,7 @@ print_r($newsList[1]);
 print_r($newsList[1]['link']);
 echo '<hr>';
 //遍历
+
 foreach ($newsList as $value){
 //    echo $value['title'].'<br>';
     foreach ($value as $v){
@@ -58,12 +59,15 @@ foreach ($newsList as $value){
     }
     echo '<br>';
 }
+
 echo '<hr>';
+
 foreach ($newsList as $key=>$value){
     foreach ($value as $k=>$v){
         echo $k.'=>'.$v.'<br>';
     }
     echo '<br>';
 }
+
 echo '<hr>';
 print_r($newsList);
