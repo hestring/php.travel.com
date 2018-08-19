@@ -71,3 +71,22 @@ foreach ($newsList as $key=>$value){
 
 echo '<hr>';
 print_r($newsList);
+
+
+
+/*二维数组定义
+	array(array(),array(),...);
+    [[],[],...];
+二维数组里添加元素
+	数组变量[]=value;
+	数组变量[key]=value;
+	数组变量[key1][key2]=value;
+修改二维数组元素值
+	数组变量[key]=new value;
+	数组变量[key1][key2]=new value;
+删除元素值
+	unset(数组变量[key]);
+	unset(数组变量[key1][key2]);
+获取二维数组元素
+	数组变量[];
+	数组变量[key1][key2];*/
