@@ -1,0 +1,1 @@
+a:5:{i:0;a:2:{s:8:"username";s:12:"百事可乐";s:7:"content";s:12:"可口可乐";}i:1;a:2:{s:8:"username";s:9:"用户名";s:7:"content";s:12:"评论内容";}i:2;a:2:{s:8:"username";s:3:"333";s:7:"content";s:3:"333";}i:3;a:2:{s:8:"username";s:8:"hestring";s:7:"content";s:7:"163.com";}i:4;a:2:{s:8:"username";s:5:"admin";s:7:"content";s:5:"admin";}}

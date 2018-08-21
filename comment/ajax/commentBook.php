@@ -51,7 +51,7 @@
         echo "<a href='commentBook.php?page=$nextPage&limit=$limit'>下一页</a>";
     }
 ?>
-<script src="jquery-3.3.1.js"></script>
+<script src="../../again/jquery-3.3.1.js"></script>
 <script>
     $('#submit').click(function () {
         $.ajax({
